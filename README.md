@@ -1,6 +1,6 @@
 GILBERT MACHICA
 
-Lipa City, PH • +639567015726 • gilbs.machica@gmail.com • linkedin.com/in/gilbertmachica
+Lipa City, PH • +639567015726 (Whatsapp/Viber) • gilbs.machica@gmail.com • linkedin.com/in/gilbertmachica
 
 PROFESSIONAL SUMMARY
 
@@ -38,7 +38,7 @@ Incident & Life-Cycle Management: Driven the end-to-end lifecycle of technical i
 
 Knowledge Engineering: Authorized high-quality technical documentation, feature request proposals, and self-service Help Center articles designed to reduce user effort and increase technical literacy.
 
-Remote Information Technology Service Desk
+Remote Information Technology Service Desk (Primary Technician)
 
 September 2020 – September 2023
 
@@ -48,7 +48,8 @@ Global Incident Management: Managed the end-to-end lifecycle of mission-critical
 
 Infrastructure Troubleshooting: Resolved complex Active Directory, AWS Workstation Troubleshooting (Refresh) and Management (Provisioning and Deprovisioning), basic network and multi-OS (Mac/Windows) concerns, and MDM (AirWatch) issues.
 
-Primary Support Ownership: Tasked as the Primary Technician or Lead Engineer for high-priority accounts while providing "White-Glove" support; served as POC during Team Lead absences, spearheading stand-ups and daily updates.
+Primary Support Ownership: Tasked as the Primary Technician or Lead Engineer for high-priority accounts while providing "White-Glove" support; served as POC for the Team, Performed Technical Audits for Incidents and
+Requests and lastly, spearheaded scrum sessions which deals with daily updates daily updates.
 
 Enterprise SaaS Administration: Engineered and managed secure environments across Slack, OneLogin, Azure, Google Workspace, Dialpad, and VMware.
 
